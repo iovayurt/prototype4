@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{53F2696F-91F9-D403-3CD8-B368D375157F}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enemy.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Challenge 4/Scripts/SpawnManagerX.cs">
     <Files>
-      <File FileName="Assets/Challenge 4/Scripts/PlayerControllerX.cs" Line="32" Column="1" />
+      <File FileName="Assets/Challenge 4/Scripts/PlayerControllerX.cs" Line="60" Column="96" />
       <File FileName="Assets/Challenge 4/Scripts/EnemyX.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/SpawnManager.cs" Line="29" Column="99" />
-      <File FileName="Assets/Scripts/PlayerController.cs" Line="15" Column="17" />
+      <File FileName="Assets/Scripts/SpawnManager.cs" Line="19" Column="1" />
+      <File FileName="Assets/Challenge 4/Scripts/SpawnManagerX.cs" Line="27" Column="1" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="59" Column="2" />
       <File FileName="Assets/Scripts/Enemy.cs" Line="21" Column="50" />
       <File FileName="Assets/Scripts/RotateCamera.cs" />
     </Files>
